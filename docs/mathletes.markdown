@@ -4,7 +4,6 @@ title: Mathletes
 permalink: /mathletes/
 ---
 
-Privacy Policy:
 
 **Privacy Policy**
 
@@ -76,7 +75,6 @@ This privacy policy page was created at [privacypolicytemplate.net](https://priv
 
 
 
-Terms of use:
 
 **Terms & Conditions**
 
