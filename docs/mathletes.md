@@ -1,5 +1,5 @@
 layout: page
 title: "Mathletes"
-permalink: /Mathletes/
+permalink: /mathletes/
 
 Hallo Welt!
