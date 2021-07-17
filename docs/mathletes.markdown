@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Mathletes"
+title: Mathletes
 permalink: /mathletes/
 ---
 
