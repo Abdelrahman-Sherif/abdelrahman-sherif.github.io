@@ -4,107 +4,113 @@ title: Budgit
 permalink: /budgit/
 ---
 
-Privacy Policy
-Abdelrahman Abdelsattar built the Budgeteer app as a Freemium app. This SERVICE is provided by Abdelrahman Abdelsattar at no cost and is intended for use as is.
+**Privacy Policy**
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+This privacy policy is applicable to the Budge it app (hereinafter referred to as "Application") for mobile devices, which was developed by Abdelrahman Abdelsattar (hereinafter referred to as "Service Provider") as a a Freemium service. This service is provided "AS IS".
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+**What information does the Application obtain and how is it used?**  
+**User Provided Information**
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Budgeteer unless otherwise defined in this Privacy Policy.
+The Application acquires the information you supply when you download and register the Application. Registration with the Service Provider is not mandatory. However, bear in mind that you might not be able to utilize some of the features offered by the Application unless you register with them.
 
-Information Collection and Use
+The Service Provider may also use the information you provided them to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to First name, Last name, email, birth date, profile picture, (optional) transactions.
+**Automatically Collected Information**
 
-The app does use third party services that may collect information used to identify you.
+In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
 
-Link to privacy policy of third party service providers used by the app
+**Does the Application collect precise real time location information of the device?**
 
-Google Play Services
-AdMob
-Firebase Crashlytics
-Facebook
-Log Data
+This Application does not gather precise information about the location of your mobile device.
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+This Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
 
-Cookies
+*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
+*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
+*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+**Do third parties see and/or have access to information obtained by the Application?**
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-Service Providers
+Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-I may employ third-party companies and individuals due to the following reasons:
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [RevenueCat](https://www.revenuecat.com/privacy)
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+The Service Provider may disclose User Provided and Automatically Collected Information:
 
-Security
+*   as required by law, such as to comply with a subpoena, or similar legal process;
+*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+**What are my opt-out rights?**
 
-Links to Other Sites
+You can halt all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+**Data Retention Policy, Managing Your Information**
 
-Children’s Privacy
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. The Service Provider will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at abderahmansherif@gmail.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.
+**Children**
 
-Changes to This Privacy Policy
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (abderahmansherif@gmail.com) so that they will be able to take the necessary actions.
 
-This policy is effective as of 2021-02-08
+**Security**
 
-Contact Us
+The Service Provider are concerned about safeguarding the confidentiality of your information. The Service Provider provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve their Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at abderahmansherif@gmail.com.
+**Changes**
 
-This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
+This privacy policy is effective as of 2024-03-25
 
+**Your Consent**
 
+By using the Application, you are giving your consent to the Service Provider processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.
 
-Terms & Conditions
-By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy, or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions. The app itself, and all the trade marks, copyright, database rights and other intellectual property rights related to it, still belong to Abdelrahman Abdelsattar.
+**Contact us**
 
-Abdelrahman Abdelsattar is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at abderahmansherif@gmail.com.
 
-The Budgeteer app stores and processes personal data that you have provided to us, in order to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Budgeteer app won’t work properly or at all.
+**Terms & Conditions**  
 
-The app does use third party services that declare their own Terms and Conditions.
+These terms and conditions applies to the Budge it app (hereby referred to as "Application") for mobile devices that was created by Abdelrahman Abdelsattar (hereby referred to as "Service Provider") as a Freemium service.
 
-Link to Terms and Conditions of third party service providers used by the app
+Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
 
-Google Play Services
-AdMob
-Firebase Crashlytics
-Facebook
-You should be aware that there are certain things that Abdelrahman Abdelsattar will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but Abdelrahman Abdelsattar cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
+The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
 
-If you’re using the app outside of an area with Wi-Fi, you should remember that your terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
+The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advise against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
 
-Along the same lines, Abdelrahman Abdelsattar cannot always take responsibility for the way you use the app i.e. You need to make sure that your device stays charged – if it runs out of battery and you can’t turn it on to avail the Service, Abdelrahman Abdelsattar cannot accept responsibility.
+Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
 
-With respect to Abdelrahman Abdelsattar’s responsibility for your use of the app, when you’re using the app, it’s important to bear in mind that although we endeavour to ensure that it is updated and correct at all times, we do rely on third parties to provide information to us so that we can make it available to you. Abdelrahman Abdelsattar accepts no liability for any loss, direct or indirect, you experience as a result of relying wholly on this functionality of the app.
+*   [Google Play Services](https://policies.google.com/terms)
+*   [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
+*   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+*   [RevenueCat](https://www.revenuecat.com/terms)
 
-At some point, we may wish to update the app. The app is currently available on Android & iOS – the requirements for both systems(and for any additional systems we decide to extend the availability of the app to) may change, and you’ll need to download the updates if you want to keep using the app. Abdelrahman Abdelsattar does not promise that it will always update the app so that it is relevant to you and/or works with the Android & iOS version that you have installed on your device. However, you promise to always accept updates to the application when offered to you, We may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless we tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
+Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
 
-Changes to This Terms and Conditions
+If you are using the application outside of a Wi-Fi area, please be aware that your mobile network provider's agreement terms still apply. Consequently, you may incur charges from your mobile provider for data usage during the connection to the application, or other third-party charges. By using the application, you accept responsibility for any such charges, including roaming data charges if you use the application outside of your home territory (i.e., region or country) without disabling data roaming. If you are not the bill payer for the device on which you are using the application, they assume that you have obtained permission from the bill payer.
 
-I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
+Similarly, the Service Provider cannot always assume responsibility for your usage of the application. For instance, it is your responsibility to ensure that your device remains charged. If your device runs out of battery and you are unable to access the Service, the Service Provider cannot be held responsible.
 
-These terms and conditions are effective as of 2021-02-08
+In terms of the Service Provider's responsibility for your use of the application, it is important to note that while they strive to ensure that it is updated and accurate at all times, they do rely on third parties to provide information to them so that they can make it available to you. The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on this functionality of the application.
 
-Contact Us
+The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
 
-If you have any questions or suggestions about my Terms and Conditions, or wish to have your data removed from our database, do not hesitate to contact me at abderahmansherif@gmail.com.
+**Changes to These Terms and Conditions**
 
-This Terms and Conditions page was generated by App Privacy Policy Generator
+The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
+
+These terms and conditions are effective as of 2024-03-25
+
+**Contact Us**
+
+If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at abderahmansherif@gmail.com.
