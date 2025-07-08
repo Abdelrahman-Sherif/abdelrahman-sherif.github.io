@@ -1,3 +1,9 @@
+---
+layout: page
+title: NTMY
+permalink: /ntmy-tos/
+---
+
 # Terms of Service
 
 Effective Date: 8 July 2025

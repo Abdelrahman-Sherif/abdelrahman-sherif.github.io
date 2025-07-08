@@ -1,3 +1,9 @@
+---
+layout: page
+title: NTMY
+permalink: /ntmy-privacy/
+---
+
 # Privacy Policy
 
 Effective Date: 8 July 2025
